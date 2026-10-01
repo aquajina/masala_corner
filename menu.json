@@ -1,0 +1,3548 @@
+[
+  {
+    "code": "1001",
+    "menu": "food",
+    "category": "SALAD",
+    "item": "Green Salad",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1002",
+    "menu": "food",
+    "category": "SALAD",
+    "item": "Onion Salad",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1003",
+    "menu": "food",
+    "category": "SALAD",
+    "item": "Cucumber Salad",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1004",
+    "menu": "food",
+    "category": "SALAD",
+    "item": "Mix Salad",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1005",
+    "menu": "food",
+    "category": "SALAD",
+    "item": "Russian Salad",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1006",
+    "menu": "food",
+    "category": "SALAD",
+    "item": "Coleslaw Salad",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1007",
+    "menu": "food",
+    "category": "SALAD",
+    "item": "Caesar Salad",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1008",
+    "menu": "food",
+    "category": "SOUP",
+    "item": "Vegetable Soup",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1009",
+    "menu": "food",
+    "category": "SOUP",
+    "item": "Cream of Tomato Soup",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1010",
+    "menu": "food",
+    "category": "SOUP",
+    "item": "Sweet Corn & Egg Drop",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1011",
+    "menu": "food",
+    "category": "SOUP",
+    "item": "Red Lentil Soup",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1012",
+    "menu": "food",
+    "category": "SOUP",
+    "item": "Tuna Noodles Soup",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1013",
+    "menu": "food",
+    "category": "SOUP",
+    "item": "Chicken Noodles Soup",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1014",
+    "menu": "food",
+    "category": "SOUP",
+    "item": "Cream Of Chicken Soup",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1015",
+    "menu": "food",
+    "category": "SOUP",
+    "item": "Sea Food Tom Yam Soup",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1016",
+    "menu": "food",
+    "category": "RICE",
+    "item": "White Rice",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1017",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Vegetable Fried Rice",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1018",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Egg Fried Rice",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1019",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Jeera Rice",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1020",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Valhoamas Rice",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1021",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Tuna Fried Rice",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1022",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Chicken Fried Rice",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1023",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Beef Fried Rice",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1024",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Mix Fried Rice",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1025",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Naasigorang",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1026",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Mexican Fried Rice",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1027",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Mongolian Tuna Rice",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1028",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Mongolian Chicken Rice",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1029",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Mongolian Beef Rice",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1030",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Mongolian Mixed Rice",
+    "description": "",
+    "price": "80",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1031",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Sea Food Fried Rice",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1032",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Chicken Biryani",
+    "description": "",
+    "price": "75",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1033",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Beef Biryani",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1034",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Papadam Potion",
+    "description": "",
+    "price": "5",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1035",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Takeaway Spoon",
+    "description": "",
+    "price": "3",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1036",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Takeaway Knife",
+    "description": "",
+    "price": "3",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1037",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Takeaway Fork",
+    "description": "",
+    "price": "3",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1038",
+    "menu": "food",
+    "category": "RICE",
+    "item": "Takeaway",
+    "description": "",
+    "price": "5",
+    "categoryImage": "https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg"
+  },
+  {
+    "code": "1039",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Vegetable Fried Noodles",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1040",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Egg Fried Noodles",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1041",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Valhoamas Noodles",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1042",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Tuna Noodles (Normal)",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1043",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Tuna Fried Noodles",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1044",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Chicken Fried Noodles",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1045",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Beef Fried Noodles",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1046",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Mix Fried Noodles",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1047",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Baamigorang",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1048",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Mexican Fried Noodles",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1049",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Mongolian Tuna Noodles",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1050",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Mongolian Chicken Noodles",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1051",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Mongolian Beef Noodles",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1052",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Mongolian Mixed Noodles",
+    "description": "",
+    "price": "80",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1053",
+    "menu": "food",
+    "category": "NOODLES",
+    "item": "Sea Food Fried Noodles",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "1054",
+    "menu": "food",
+    "category": "KOHTHU ROSHI",
+    "item": "Vegetable Kohthu",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.theflavorbender.com/wp-content/uploads/2018/03/Chicken-Kottu-Roti-The-Flavor-Bender-2-5.jpg"
+  },
+  {
+    "code": "1055",
+    "menu": "food",
+    "category": "KOHTHU ROSHI",
+    "item": "Egg Kohthu",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://www.theflavorbender.com/wp-content/uploads/2018/03/Chicken-Kottu-Roti-The-Flavor-Bender-2-5.jpg"
+  },
+  {
+    "code": "1056",
+    "menu": "food",
+    "category": "KOHTHU ROSHI",
+    "item": "Tuna Kohthu",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://www.theflavorbender.com/wp-content/uploads/2018/03/Chicken-Kottu-Roti-The-Flavor-Bender-2-5.jpg"
+  },
+  {
+    "code": "1057",
+    "menu": "food",
+    "category": "KOHTHU ROSHI",
+    "item": "Chicken Kohthu",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://www.theflavorbender.com/wp-content/uploads/2018/03/Chicken-Kottu-Roti-The-Flavor-Bender-2-5.jpg"
+  },
+  {
+    "code": "1058",
+    "menu": "food",
+    "category": "KOHTHU ROSHI",
+    "item": "Beef Kohthu",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://www.theflavorbender.com/wp-content/uploads/2018/03/Chicken-Kottu-Roti-The-Flavor-Bender-2-5.jpg"
+  },
+  {
+    "code": "1059",
+    "menu": "food",
+    "category": "KOHTHU ROSHI",
+    "item": "Mix Kohthu",
+    "description": "",
+    "price": "80",
+    "categoryImage": "https://www.theflavorbender.com/wp-content/uploads/2018/03/Chicken-Kottu-Roti-The-Flavor-Bender-2-5.jpg"
+  },
+  {
+    "code": "1060",
+    "menu": "food",
+    "category": "KOHTHU ROSHI",
+    "item": "Sea Food Kohthu",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://www.theflavorbender.com/wp-content/uploads/2018/03/Chicken-Kottu-Roti-The-Flavor-Bender-2-5.jpg"
+  },
+  {
+    "code": "1061",
+    "menu": "food",
+    "category": "PHARATAA & NAAN",
+    "item": "Plain Pharaata",
+    "description": "",
+    "price": "10",
+    "categoryImage": "https://foodess.com/wp-content/uploads/2023/10/Malabar-Kerala-Paratha.jpg"
+  },
+  {
+    "code": "1062",
+    "menu": "food",
+    "category": "PHARATAA & NAAN",
+    "item": "Egg Pharaata",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://foodess.com/wp-content/uploads/2023/10/Malabar-Kerala-Paratha.jpg"
+  },
+  {
+    "code": "1063",
+    "menu": "food",
+    "category": "PHARATAA & NAAN",
+    "item": "Alu Pharaata",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://foodess.com/wp-content/uploads/2023/10/Malabar-Kerala-Paratha.jpg"
+  },
+  {
+    "code": "1064",
+    "menu": "food",
+    "category": "PHARATAA & NAAN",
+    "item": "Plain Naan",
+    "description": "",
+    "price": "10",
+    "categoryImage": "https://foodess.com/wp-content/uploads/2023/10/Malabar-Kerala-Paratha.jpg"
+  },
+  {
+    "code": "1065",
+    "menu": "food",
+    "category": "PHARATAA & NAAN",
+    "item": "Ready-made Pharaata",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://foodess.com/wp-content/uploads/2023/10/Malabar-Kerala-Paratha.jpg"
+  },
+  {
+    "code": "1066",
+    "menu": "food",
+    "category": "PHARATAA & NAAN",
+    "item": "Alu Naan",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://foodess.com/wp-content/uploads/2023/10/Malabar-Kerala-Paratha.jpg"
+  },
+  {
+    "code": "1067",
+    "menu": "food",
+    "category": "SHAWARUMA",
+    "item": "Chicken Shawaruma ( Half )",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://media.istockphoto.com/id/1421688556/photo/beef-shawarma-on-a-dark-background-shawarma-with-beef-in-pita-bread.jpg?b=1&s=612x612&w=0&k=20&c=mf5uLb_L1Qde63jvLhN7rYm7TI2x8BRhhgO2p2gTYCo="
+  },
+  {
+    "code": "1068",
+    "menu": "food",
+    "category": "SHAWARUMA",
+    "item": "Chicken Shawaruma",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://media.istockphoto.com/id/1421688556/photo/beef-shawarma-on-a-dark-background-shawarma-with-beef-in-pita-bread.jpg?b=1&s=612x612&w=0&k=20&c=mf5uLb_L1Qde63jvLhN7rYm7TI2x8BRhhgO2p2gTYCo="
+  },
+  {
+    "code": "1069",
+    "menu": "food",
+    "category": "SHAWARUMA",
+    "item": "Beef Shawaruma ( Half )",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://media.istockphoto.com/id/1421688556/photo/beef-shawarma-on-a-dark-background-shawarma-with-beef-in-pita-bread.jpg?b=1&s=612x612&w=0&k=20&c=mf5uLb_L1Qde63jvLhN7rYm7TI2x8BRhhgO2p2gTYCo="
+  },
+  {
+    "code": "1070",
+    "menu": "food",
+    "category": "SHAWARUMA",
+    "item": "Beef Shawaruma",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://media.istockphoto.com/id/1421688556/photo/beef-shawarma-on-a-dark-background-shawarma-with-beef-in-pita-bread.jpg?b=1&s=612x612&w=0&k=20&c=mf5uLb_L1Qde63jvLhN7rYm7TI2x8BRhhgO2p2gTYCo="
+  },
+  {
+    "code": "1071",
+    "menu": "food",
+    "category": "SHAWARUMA",
+    "item": "Thandhoori Shawaruma ( Half )",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://media.istockphoto.com/id/1421688556/photo/beef-shawarma-on-a-dark-background-shawarma-with-beef-in-pita-bread.jpg?b=1&s=612x612&w=0&k=20&c=mf5uLb_L1Qde63jvLhN7rYm7TI2x8BRhhgO2p2gTYCo="
+  },
+  {
+    "code": "1072",
+    "menu": "food",
+    "category": "SHAWARUMA",
+    "item": "Thandhoori Shawaruma",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://media.istockphoto.com/id/1421688556/photo/beef-shawarma-on-a-dark-background-shawarma-with-beef-in-pita-bread.jpg?b=1&s=612x612&w=0&k=20&c=mf5uLb_L1Qde63jvLhN7rYm7TI2x8BRhhgO2p2gTYCo="
+  },
+  {
+    "code": "1073",
+    "menu": "food",
+    "category": "PASTA OR SPAGHETTI",
+    "item": "Tuna Sauce",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://pub-aaa82e9851064d22b954c3ebbafc9ae6.r2.dev/legacy/thumbnails/cherry-tomatoes-spaghetti-2bVD3hLCOUweJzvwqJMh5.webp"
+  },
+  {
+    "code": "1074",
+    "menu": "food",
+    "category": "PASTA OR SPAGHETTI",
+    "item": "Chicken Carbonara",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://pub-aaa82e9851064d22b954c3ebbafc9ae6.r2.dev/legacy/thumbnails/cherry-tomatoes-spaghetti-2bVD3hLCOUweJzvwqJMh5.webp"
+  },
+  {
+    "code": "1075",
+    "menu": "food",
+    "category": "PASTA OR SPAGHETTI",
+    "item": "Beef Sauce ( Bolognaise )",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://pub-aaa82e9851064d22b954c3ebbafc9ae6.r2.dev/legacy/thumbnails/cherry-tomatoes-spaghetti-2bVD3hLCOUweJzvwqJMh5.webp"
+  },
+  {
+    "code": "1076",
+    "menu": "food",
+    "category": "PASTA OR SPAGHETTI",
+    "item": "Ala Oli",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://pub-aaa82e9851064d22b954c3ebbafc9ae6.r2.dev/legacy/thumbnails/cherry-tomatoes-spaghetti-2bVD3hLCOUweJzvwqJMh5.webp"
+  },
+  {
+    "code": "1077",
+    "menu": "food",
+    "category": "PASTA OR SPAGHETTI",
+    "item": "Sea Food Cheese 4 Curry Flavor Prawns Cream",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://pub-aaa82e9851064d22b954c3ebbafc9ae6.r2.dev/legacy/thumbnails/cherry-tomatoes-spaghetti-2bVD3hLCOUweJzvwqJMh5.webp"
+  },
+  {
+    "code": "1078",
+    "menu": "food",
+    "category": "VEGETARIAN",
+    "item": "Honey Chilli Potato",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://pub-aaa82e9851064d22b954c3ebbafc9ae6.r2.dev/legacy/thumbnails/vibrant-green-vegetable-medley-on-dark-surface-shLdnn0rc0EW8LsC4Pzjc.webp"
+  },
+  {
+    "code": "1079",
+    "menu": "food",
+    "category": "VEGETARIAN",
+    "item": "Paneer 65",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://pub-aaa82e9851064d22b954c3ebbafc9ae6.r2.dev/legacy/thumbnails/vibrant-green-vegetable-medley-on-dark-surface-shLdnn0rc0EW8LsC4Pzjc.webp"
+  },
+  {
+    "code": "1080",
+    "menu": "food",
+    "category": "VEGETARIAN",
+    "item": "Fried Paneer & Chilli Sauce",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://pub-aaa82e9851064d22b954c3ebbafc9ae6.r2.dev/legacy/thumbnails/vibrant-green-vegetable-medley-on-dark-surface-shLdnn0rc0EW8LsC4Pzjc.webp"
+  },
+  {
+    "code": "1081",
+    "menu": "food",
+    "category": "VEGETARIAN",
+    "item": "Tempura Vegetable",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://pub-aaa82e9851064d22b954c3ebbafc9ae6.r2.dev/legacy/thumbnails/vibrant-green-vegetable-medley-on-dark-surface-shLdnn0rc0EW8LsC4Pzjc.webp"
+  },
+  {
+    "code": "1082",
+    "menu": "food",
+    "category": "VEGETARIAN",
+    "item": "Fried Mushroom & Chilli Sauce",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://pub-aaa82e9851064d22b954c3ebbafc9ae6.r2.dev/legacy/thumbnails/vibrant-green-vegetable-medley-on-dark-surface-shLdnn0rc0EW8LsC4Pzjc.webp"
+  },
+  {
+    "code": "1083",
+    "menu": "food",
+    "category": "FRIED ITEMS",
+    "item": "French Fries ( Small )",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://media.istockphoto.com/id/1284607413/photo/crispy-fish-sticks-and-fries-with-tarter-sauce.jpg?b=1&s=612x612&w=0&k=20&c=ICZMPcZHx6Rzo6iJQDiQunexhvyBotpot_5qghMDqzQ="
+  },
+  {
+    "code": "1084",
+    "menu": "food",
+    "category": "FRIED ITEMS",
+    "item": "French Fries ( Large )",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://media.istockphoto.com/id/1284607413/photo/crispy-fish-sticks-and-fries-with-tarter-sauce.jpg?b=1&s=612x612&w=0&k=20&c=ICZMPcZHx6Rzo6iJQDiQunexhvyBotpot_5qghMDqzQ="
+  },
+  {
+    "code": "1085",
+    "menu": "food",
+    "category": "FRIED ITEMS",
+    "item": "Fish & Chips",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://media.istockphoto.com/id/1284607413/photo/crispy-fish-sticks-and-fries-with-tarter-sauce.jpg?b=1&s=612x612&w=0&k=20&c=ICZMPcZHx6Rzo6iJQDiQunexhvyBotpot_5qghMDqzQ="
+  },
+  {
+    "code": "1086",
+    "menu": "food",
+    "category": "FRIED ITEMS",
+    "item": "Chicken & Chips",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://media.istockphoto.com/id/1284607413/photo/crispy-fish-sticks-and-fries-with-tarter-sauce.jpg?b=1&s=612x612&w=0&k=20&c=ICZMPcZHx6Rzo6iJQDiQunexhvyBotpot_5qghMDqzQ="
+  },
+  {
+    "code": "1087",
+    "menu": "food",
+    "category": "FRIED ITEMS",
+    "item": "Crispy Chicken",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://media.istockphoto.com/id/1284607413/photo/crispy-fish-sticks-and-fries-with-tarter-sauce.jpg?b=1&s=612x612&w=0&k=20&c=ICZMPcZHx6Rzo6iJQDiQunexhvyBotpot_5qghMDqzQ="
+  },
+  {
+    "code": "1088",
+    "menu": "food",
+    "category": "FRIED ITEMS",
+    "item": "Fried Chicken Chilli Sauce",
+    "description": "",
+    "price": "80",
+    "categoryImage": "https://media.istockphoto.com/id/1284607413/photo/crispy-fish-sticks-and-fries-with-tarter-sauce.jpg?b=1&s=612x612&w=0&k=20&c=ICZMPcZHx6Rzo6iJQDiQunexhvyBotpot_5qghMDqzQ="
+  },
+  {
+    "code": "1089",
+    "menu": "food",
+    "category": "FRIED ITEMS",
+    "item": "Fried Beef Chilli Sauce",
+    "description": "",
+    "price": "80",
+    "categoryImage": "https://media.istockphoto.com/id/1284607413/photo/crispy-fish-sticks-and-fries-with-tarter-sauce.jpg?b=1&s=612x612&w=0&k=20&c=ICZMPcZHx6Rzo6iJQDiQunexhvyBotpot_5qghMDqzQ="
+  },
+  {
+    "code": "1090",
+    "menu": "food",
+    "category": "CHOPCY RICE",
+    "item": "Vegetable Chopcy Rice",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTeh4EZS8Y_OFIVw9e5b6ePtmU4es77omPw&s"
+  },
+  {
+    "code": "1091",
+    "menu": "food",
+    "category": "CHOPCY RICE",
+    "item": "Chicken Chopcy Rice",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTeh4EZS8Y_OFIVw9e5b6ePtmU4es77omPw&s"
+  },
+  {
+    "code": "1092",
+    "menu": "food",
+    "category": "CHOPCY RICE",
+    "item": "Beef Chopcy Rice",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTeh4EZS8Y_OFIVw9e5b6ePtmU4es77omPw&s"
+  },
+  {
+    "code": "1093",
+    "menu": "food",
+    "category": "CHOPCY RICE",
+    "item": "Mix Chopcy Rice",
+    "description": "",
+    "price": "75",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTeh4EZS8Y_OFIVw9e5b6ePtmU4es77omPw&s"
+  },
+  {
+    "code": "1094",
+    "menu": "food",
+    "category": "CHOPCY RICE",
+    "item": "Sea Food Chopcy Rice",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTeh4EZS8Y_OFIVw9e5b6ePtmU4es77omPw&s"
+  },
+  {
+    "code": "1095",
+    "menu": "food",
+    "category": "THANDHOORI ITEMS",
+    "item": "Chicken 65",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://blog.swiggy.com/wp-content/uploads/2024/10/Image1_-Tandoori-Chicken-1024x538.jpg"
+  },
+  {
+    "code": "1096",
+    "menu": "food",
+    "category": "THANDHOORI ITEMS",
+    "item": "Chicken Tikka",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://blog.swiggy.com/wp-content/uploads/2024/10/Image1_-Tandoori-Chicken-1024x538.jpg"
+  },
+  {
+    "code": "1097",
+    "menu": "food",
+    "category": "THANDHOORI ITEMS",
+    "item": "Thandhoori Chicken ( Half )",
+    "description": "",
+    "price": "90",
+    "categoryImage": "https://blog.swiggy.com/wp-content/uploads/2024/10/Image1_-Tandoori-Chicken-1024x538.jpg"
+  },
+  {
+    "code": "1098",
+    "menu": "food",
+    "category": "THANDHOORI ITEMS",
+    "item": "Thandhoori Chicken ( Full )",
+    "description": "",
+    "price": "180",
+    "categoryImage": "https://blog.swiggy.com/wp-content/uploads/2024/10/Image1_-Tandoori-Chicken-1024x538.jpg"
+  },
+  {
+    "code": "1099",
+    "menu": "food",
+    "category": "THANDHOORI ITEMS",
+    "item": "Thandhoori Chicken Wing",
+    "description": "",
+    "price": "80",
+    "categoryImage": "https://blog.swiggy.com/wp-content/uploads/2024/10/Image1_-Tandoori-Chicken-1024x538.jpg"
+  },
+  {
+    "code": "1100",
+    "menu": "food",
+    "category": "THANDHOORI ITEMS",
+    "item": "Thandhoori Prawns Kabaab",
+    "description": "",
+    "price": "200",
+    "categoryImage": "https://blog.swiggy.com/wp-content/uploads/2024/10/Image1_-Tandoori-Chicken-1024x538.jpg"
+  },
+  {
+    "code": "1101",
+    "menu": "food",
+    "category": "THANDHOORI ITEMS",
+    "item": "Thandhoori Sea Food Kabaab",
+    "description": "",
+    "price": "300",
+    "categoryImage": "https://blog.swiggy.com/wp-content/uploads/2024/10/Image1_-Tandoori-Chicken-1024x538.jpg"
+  },
+  {
+    "code": "1102",
+    "menu": "food",
+    "category": "INDIAN SIDE DISH",
+    "item": "Dahal Tadka",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://nickskitchen.com/wp-content/uploads/2025/08/NK_Butter-Ckn_1-500x500.jpg"
+  },
+  {
+    "code": "1103",
+    "menu": "food",
+    "category": "INDIAN SIDE DISH",
+    "item": "Paneer Masala",
+    "description": "",
+    "price": "130",
+    "categoryImage": "https://nickskitchen.com/wp-content/uploads/2025/08/NK_Butter-Ckn_1-500x500.jpg"
+  },
+  {
+    "code": "1104",
+    "menu": "food",
+    "category": "INDIAN SIDE DISH",
+    "item": "Matter Mushroom",
+    "description": "",
+    "price": "80",
+    "categoryImage": "https://nickskitchen.com/wp-content/uploads/2025/08/NK_Butter-Ckn_1-500x500.jpg"
+  },
+  {
+    "code": "1105",
+    "menu": "food",
+    "category": "INDIAN SIDE DISH",
+    "item": "Mattar Paneer",
+    "description": "",
+    "price": "110",
+    "categoryImage": "https://nickskitchen.com/wp-content/uploads/2025/08/NK_Butter-Ckn_1-500x500.jpg"
+  },
+  {
+    "code": "1106",
+    "menu": "food",
+    "category": "INDIAN SIDE DISH",
+    "item": "Butter Paneer Masala",
+    "description": "",
+    "price": "120",
+    "categoryImage": "https://nickskitchen.com/wp-content/uploads/2025/08/NK_Butter-Ckn_1-500x500.jpg"
+  },
+  {
+    "code": "1107",
+    "menu": "food",
+    "category": "INDIAN SIDE DISH",
+    "item": "Butter Chicken",
+    "description": "",
+    "price": "140",
+    "categoryImage": "https://nickskitchen.com/wp-content/uploads/2025/08/NK_Butter-Ckn_1-500x500.jpg"
+  },
+  {
+    "code": "1108",
+    "menu": "food",
+    "category": "INDIAN SIDE DISH",
+    "item": "Chicken Tikka Masala",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://nickskitchen.com/wp-content/uploads/2025/08/NK_Butter-Ckn_1-500x500.jpg"
+  },
+  {
+    "code": "1109",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Vegetable Sandwich ( Small )",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1110",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Vegetable Sandwich ( With Fries )",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1111",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Cheese & Tomato Sandwich ( Small )",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1112",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Cheese & Tomato Sandwich ( With Fries )",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1113",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Egg Sandwich ( Small )",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1114",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Egg Sandwich ( With Fries )",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1115",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Tuna Sandwich ( Small )",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1116",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Tuna Sandwich ( With Fries )",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1117",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Chicken Sandwich ( Small )",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1118",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Chicken Sandwich ( With Fries )",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1119",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Beef Sandwich ( Small )",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1120",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Beef Sandwich ( With Fries )",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1121",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Club Sandwich ( Slice )",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1122",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Club Sandwich ( Tuna with Fries )",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1123",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Club Sandwich ( Chicken with Fries )",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1124",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Club Sandwich ( Beef with Fries )",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1125",
+    "menu": "food",
+    "category": "SANDWICH WITH FRIES",
+    "item": "Club Sandwich ( Mixed )",
+    "description": "",
+    "price": "75",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvr__e83WQ7WExyVWdyQM-L_4TCq4Wi6uqqg&s"
+  },
+  {
+    "code": "1126",
+    "menu": "food",
+    "category": "BURGER WITH FRIES",
+    "item": "Vegetable Burger ( Small )",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsTircXEKD0-vBNgfYzMNpRiyxuwV9FW1IQ&s"
+  },
+  {
+    "code": "1127",
+    "menu": "food",
+    "category": "BURGER WITH FRIES",
+    "item": "Vegetable Burger ( With Fries )",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsTircXEKD0-vBNgfYzMNpRiyxuwV9FW1IQ&s"
+  },
+  {
+    "code": "1128",
+    "menu": "food",
+    "category": "BURGER WITH FRIES",
+    "item": "Tuna Burger ( Small )",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsTircXEKD0-vBNgfYzMNpRiyxuwV9FW1IQ&s"
+  },
+  {
+    "code": "1129",
+    "menu": "food",
+    "category": "BURGER WITH FRIES",
+    "item": "Tuna Burger ( With Fries )",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsTircXEKD0-vBNgfYzMNpRiyxuwV9FW1IQ&s"
+  },
+  {
+    "code": "1130",
+    "menu": "food",
+    "category": "BURGER WITH FRIES",
+    "item": "Chicken Burger ( Small )",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsTircXEKD0-vBNgfYzMNpRiyxuwV9FW1IQ&s"
+  },
+  {
+    "code": "1131",
+    "menu": "food",
+    "category": "BURGER WITH FRIES",
+    "item": "Chicken Burger ( With Fries )",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsTircXEKD0-vBNgfYzMNpRiyxuwV9FW1IQ&s"
+  },
+  {
+    "code": "1132",
+    "menu": "food",
+    "category": "BURGER WITH FRIES",
+    "item": "Crispy Chicken Burger ( Small )",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsTircXEKD0-vBNgfYzMNpRiyxuwV9FW1IQ&s"
+  },
+  {
+    "code": "1133",
+    "menu": "food",
+    "category": "BURGER WITH FRIES",
+    "item": "Crispy Chicken Burger ( With Fries )",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsTircXEKD0-vBNgfYzMNpRiyxuwV9FW1IQ&s"
+  },
+  {
+    "code": "1134",
+    "menu": "food",
+    "category": "BURGER WITH FRIES",
+    "item": "Beef Burger ( Small )",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsTircXEKD0-vBNgfYzMNpRiyxuwV9FW1IQ&s"
+  },
+  {
+    "code": "1135",
+    "menu": "food",
+    "category": "BURGER WITH FRIES",
+    "item": "Beef Burger ( With Fries )",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsTircXEKD0-vBNgfYzMNpRiyxuwV9FW1IQ&s"
+  },
+  {
+    "code": "1136",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Tuna Submarine ( Half )",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1137",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Tuna Submarine ( With Fries )",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1138",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Chicken Submarine ( Half )",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1139",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Chicken Submarine ( With Fries )",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1140",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Chilli Chicken Submarine ( Half )",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1141",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Chilli Chicken Submarine ( With Fries )",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1142",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Devilled Chicken Submarine ( Half )",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1143",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Devilled Chicken Submarine ( With Fries )",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1144",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Beef Submarine ( Half )",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1145",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Beef Submarine ( With Fries )",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1146",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Tandoori Chicken Submarine ( Half )",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1147",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Tandoori Chicken Submarine ( With Fries )",
+    "description": "",
+    "price": "80",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1148",
+    "menu": "food",
+    "category": "SUBMARINE WITH FRIES",
+    "item": "Sliced Cheese 1 pcs",
+    "description": "",
+    "price": "7",
+    "categoryImage": "https://d1ralsognjng37.cloudfront.net/85d0dafa-3a2d-490e-b83a-b7e5c604d1b5.jpeg"
+  },
+  {
+    "code": "1149",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Vegetable Pizza",
+    "description": "",
+    "price": "100",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1150",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Margarita Pizza",
+    "description": "",
+    "price": "100",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1151",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Tuna Pizza",
+    "description": "",
+    "price": "110",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1152",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Tuna & Mushroom Pizza",
+    "description": "",
+    "price": "130",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1153",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Chicken Pizza",
+    "description": "",
+    "price": "125",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1154",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Chicken & Mushroom Pizza",
+    "description": "",
+    "price": "145",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1155",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Devilled Chicken Pizza",
+    "description": "",
+    "price": "130",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1156",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Devilled Chicken & Mushroom Pizza",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1157",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Thandhoori Chicken Pizza",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1158",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Valhoamas Pizza",
+    "description": "",
+    "price": "110",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1159",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Valhoamas & Mushroom Pizza",
+    "description": "",
+    "price": "130",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1160",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Sausage Pizza",
+    "description": "",
+    "price": "120",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1161",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Sausage & Mushroom Pizza",
+    "description": "",
+    "price": "140",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1162",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Beef Pizza",
+    "description": "",
+    "price": "135",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1163",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Beef & Mushroom Pizza",
+    "description": "",
+    "price": "155",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1164",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Cuttle Fish Pizza",
+    "description": "",
+    "price": "220",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1165",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Seafood Pizza",
+    "description": "",
+    "price": "300",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1166",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Mix Pizza",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1167",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Mix Pizza With Mushroom",
+    "description": "",
+    "price": "170",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1168",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Extra Mushroom",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1169",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Extra Cheese",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1170",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Extra Tomato",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1171",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Extra Olives",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1172",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Extra Chilli",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1173",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Extra Papadam",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1174",
+    "menu": "food",
+    "category": "PIZZA",
+    "item": "Pizza Box",
+    "description": "",
+    "price": "6",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Homemade-Pizza_EXPS_FT23_376_EC_120123_3.jpg"
+  },
+  {
+    "code": "1175",
+    "menu": "food",
+    "category": "DEVILLED ITEMS",
+    "item": "Devilled Fish",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://lonumedhu.com/sites/default/files/DevilledTunaFinal.jpg"
+  },
+  {
+    "code": "1176",
+    "menu": "food",
+    "category": "DEVILLED ITEMS",
+    "item": "Devilled Chicken",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://lonumedhu.com/sites/default/files/DevilledTunaFinal.jpg"
+  },
+  {
+    "code": "1177",
+    "menu": "food",
+    "category": "DEVILLED ITEMS",
+    "item": "Devilled Beef",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://lonumedhu.com/sites/default/files/DevilledTunaFinal.jpg"
+  },
+  {
+    "code": "1178",
+    "menu": "food",
+    "category": "DEVILLED ITEMS",
+    "item": "Devilled Prawns",
+    "description": "",
+    "price": "250",
+    "categoryImage": "https://lonumedhu.com/sites/default/files/DevilledTunaFinal.jpg"
+  },
+  {
+    "code": "1179",
+    "menu": "food",
+    "category": "DEVILLED ITEMS",
+    "item": "Devilled Cuttle Fish",
+    "description": "",
+    "price": "180",
+    "categoryImage": "https://lonumedhu.com/sites/default/files/DevilledTunaFinal.jpg"
+  },
+  {
+    "code": "1180",
+    "menu": "food",
+    "category": "DEVILLED ITEMS",
+    "item": "Devilled Octopus",
+    "description": "",
+    "price": "200",
+    "categoryImage": "https://lonumedhu.com/sites/default/files/DevilledTunaFinal.jpg"
+  },
+  {
+    "code": "1181",
+    "menu": "food",
+    "category": "SRI LANKA STEW",
+    "item": "Hot Butter Mushroom",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://tuktuknegombo.com/wp-content/uploads/2024/11/Hot-Battered-Mushrooms.webp"
+  },
+  {
+    "code": "1182",
+    "menu": "food",
+    "category": "SRI LANKA STEW",
+    "item": "Hot Butter Fish",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://tuktuknegombo.com/wp-content/uploads/2024/11/Hot-Battered-Mushrooms.webp"
+  },
+  {
+    "code": "1183",
+    "menu": "food",
+    "category": "SRI LANKA STEW",
+    "item": "Hot Butter Chicken",
+    "description": "",
+    "price": "120",
+    "categoryImage": "https://tuktuknegombo.com/wp-content/uploads/2024/11/Hot-Battered-Mushrooms.webp"
+  },
+  {
+    "code": "1184",
+    "menu": "food",
+    "category": "SRI LANKA STEW",
+    "item": "Hot Butter Cuttle Fish",
+    "description": "",
+    "price": "200",
+    "categoryImage": "https://tuktuknegombo.com/wp-content/uploads/2024/11/Hot-Battered-Mushrooms.webp"
+  },
+  {
+    "code": "1185",
+    "menu": "food",
+    "category": "SRI LANKA STEW",
+    "item": "Hot Butter Prawns",
+    "description": "",
+    "price": "250",
+    "categoryImage": "https://tuktuknegombo.com/wp-content/uploads/2024/11/Hot-Battered-Mushrooms.webp"
+  },
+  {
+    "code": "1186",
+    "menu": "food",
+    "category": "SRI LANKAN RICE & CURRY",
+    "item": "Fish Curry & 3 Vegetable Curry",
+    "description": "",
+    "price": "120",
+    "categoryImage": "https://avgtravels.com/au/wp-content/uploads/sites/4/Sri-Lankan-rice-and-curry-plate-sri-lankan-cuisine-travel.jpg"
+  },
+  {
+    "code": "1187",
+    "menu": "food",
+    "category": "SRI LANKAN RICE & CURRY",
+    "item": "Chicken Curry & 3 Vegetable Curry",
+    "description": "",
+    "price": "140",
+    "categoryImage": "https://avgtravels.com/au/wp-content/uploads/sites/4/Sri-Lankan-rice-and-curry-plate-sri-lankan-cuisine-travel.jpg"
+  },
+  {
+    "code": "1188",
+    "menu": "food",
+    "category": "SRI LANKAN RICE & CURRY",
+    "item": "Beef Curry & 3 Vegetable Curry",
+    "description": "",
+    "price": "160",
+    "categoryImage": "https://avgtravels.com/au/wp-content/uploads/sites/4/Sri-Lankan-rice-and-curry-plate-sri-lankan-cuisine-travel.jpg"
+  },
+  {
+    "code": "1189",
+    "menu": "food",
+    "category": "SRI LANKAN RICE & CURRY",
+    "item": "Prawns Curry & 3 Vegetable Curry",
+    "description": "",
+    "price": "250",
+    "categoryImage": "https://avgtravels.com/au/wp-content/uploads/sites/4/Sri-Lankan-rice-and-curry-plate-sri-lankan-cuisine-travel.jpg"
+  },
+  {
+    "code": "1190",
+    "menu": "food",
+    "category": "HOPPERS",
+    "item": "Plain Hoppers",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://i0.wp.com/www.lavenderandlovage.com/wp-content/uploads/2016/05/Sri-Lankan-Egg-Hoppers-for-Breakfast.jpg?fit=1200%2C901&ssl=1"
+  },
+  {
+    "code": "1191",
+    "menu": "food",
+    "category": "HOPPERS",
+    "item": "Egg Hoppers",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://i0.wp.com/www.lavenderandlovage.com/wp-content/uploads/2016/05/Sri-Lankan-Egg-Hoppers-for-Breakfast.jpg?fit=1200%2C901&ssl=1"
+  },
+  {
+    "code": "1192",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Continental Breakfast",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1193",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Maldivian Breakfast",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1194",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Aadhaige Mushuni Breakfast",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1195",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Fathu Mashuni Breakfast",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1196",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Baked Beans Breakfast",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1197",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Kulhimas Breakfast",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1198",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Rihaakuru Breakfast",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1199",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Boiled Egg",
+    "description": "",
+    "price": "6",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1200",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Sausage",
+    "description": "",
+    "price": "10",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1201",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Plain Omelet ( One Egg )",
+    "description": "",
+    "price": "10",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1202",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Masala Cheese Omelet ( Two Egg )",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1203",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Cheese Omelet ( Two Egg )",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1204",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Slice Bread",
+    "description": "",
+    "price": "3",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1205",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Portion Butter",
+    "description": "",
+    "price": "7",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1206",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Portion Jam",
+    "description": "",
+    "price": "7",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1207",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Masala Omelet",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1208",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Roshi",
+    "description": "",
+    "price": "3",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1209",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Disk",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1210",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Fathumashuni",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1211",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Aadhaige Mashuni",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1212",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Baked Beans",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1213",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Kulhimas",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1214",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Kulhi Rihaakuru",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1215",
+    "menu": "food",
+    "category": "BREAKFAST",
+    "item": "Gerikiru",
+    "description": "",
+    "price": "10",
+    "categoryImage": "https://www.kitchentreaty.com/wp-content/uploads/2025/03/vegetarian-english-breakfast-17.jpg"
+  },
+  {
+    "code": "1216",
+    "menu": "food",
+    "category": "DESSERTS",
+    "item": "Portion Apple",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Fruit-Dessert_EXPS_TOHD24_31674_OrlyCatz_7.jpg"
+  },
+  {
+    "code": "1217",
+    "menu": "food",
+    "category": "DESSERTS",
+    "item": "Portion Orange",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Fruit-Dessert_EXPS_TOHD24_31674_OrlyCatz_7.jpg"
+  },
+  {
+    "code": "1218",
+    "menu": "food",
+    "category": "DESSERTS",
+    "item": "Portion Banana",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Fruit-Dessert_EXPS_TOHD24_31674_OrlyCatz_7.jpg"
+  },
+  {
+    "code": "1219",
+    "menu": "food",
+    "category": "DESSERTS",
+    "item": "Portion Papaya",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Fruit-Dessert_EXPS_TOHD24_31674_OrlyCatz_7.jpg"
+  },
+  {
+    "code": "1220",
+    "menu": "food",
+    "category": "DESSERTS",
+    "item": "Portion Pineapple",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Fruit-Dessert_EXPS_TOHD24_31674_OrlyCatz_7.jpg"
+  },
+  {
+    "code": "1221",
+    "menu": "food",
+    "category": "DESSERTS",
+    "item": "Portion Mango",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Fruit-Dessert_EXPS_TOHD24_31674_OrlyCatz_7.jpg"
+  },
+  {
+    "code": "1222",
+    "menu": "food",
+    "category": "DESSERTS",
+    "item": "Fruit Salad",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Fruit-Dessert_EXPS_TOHD24_31674_OrlyCatz_7.jpg"
+  },
+  {
+    "code": "1223",
+    "menu": "food",
+    "category": "DESSERTS",
+    "item": "Fruit Salad & Ice Cream Single Scoop",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Fruit-Dessert_EXPS_TOHD24_31674_OrlyCatz_7.jpg"
+  },
+  {
+    "code": "1224",
+    "menu": "food",
+    "category": "DESSERTS",
+    "item": "Watalappan",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Fruit-Dessert_EXPS_TOHD24_31674_OrlyCatz_7.jpg"
+  },
+  {
+    "code": "1225",
+    "menu": "food",
+    "category": "DESSERTS",
+    "item": "Cream Caramel",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Fruit-Dessert_EXPS_TOHD24_31674_OrlyCatz_7.jpg"
+  },
+  {
+    "code": "1226",
+    "menu": "food",
+    "category": "DESSERTS",
+    "item": "Banana Split (Banana & Ice Cream)",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://www.tasteofhome.com/wp-content/uploads/2024/09/Fruit-Dessert_EXPS_TOHD24_31674_OrlyCatz_7.jpg"
+  },
+  {
+    "code": "2001",
+    "menu": "drinks",
+    "category": "WATER",
+    "item": "Glass Water",
+    "description": "",
+    "price": "3",
+    "categoryImage": "https://m.media-amazon.com/images/I/61pOXvxcYkL.jpg"
+  },
+  {
+    "code": "2002",
+    "menu": "drinks",
+    "category": "WATER",
+    "item": "Mineral Water (500ml)",
+    "description": "",
+    "price": "6",
+    "categoryImage": "https://m.media-amazon.com/images/I/61pOXvxcYkL.jpg"
+  },
+  {
+    "code": "2003",
+    "menu": "drinks",
+    "category": "WATER",
+    "item": "Mineral Water (1 Litre)",
+    "description": "",
+    "price": "12",
+    "categoryImage": "https://m.media-amazon.com/images/I/61pOXvxcYkL.jpg"
+  },
+  {
+    "code": "2004",
+    "menu": "drinks",
+    "category": "WATER",
+    "item": "Mineral Water (1.5 Litre)",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://m.media-amazon.com/images/I/61pOXvxcYkL.jpg"
+  },
+  {
+    "code": "2005",
+    "menu": "drinks",
+    "category": "WATER",
+    "item": "San Pellegrino (500ml)",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://m.media-amazon.com/images/I/61pOXvxcYkL.jpg"
+  },
+  {
+    "code": "2006",
+    "menu": "drinks",
+    "category": "WATER",
+    "item": "San Pellegrino (750ml)",
+    "description": "",
+    "price": "75",
+    "categoryImage": "https://m.media-amazon.com/images/I/61pOXvxcYkL.jpg"
+  },
+  {
+    "code": "2007",
+    "menu": "drinks",
+    "category": "WATER",
+    "item": "Perrier (330ml)",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://m.media-amazon.com/images/I/61pOXvxcYkL.jpg"
+  },
+  {
+    "code": "2008",
+    "menu": "drinks",
+    "category": "WATER",
+    "item": "Perrier (750ml)",
+    "description": "",
+    "price": "75",
+    "categoryImage": "https://m.media-amazon.com/images/I/61pOXvxcYkL.jpg"
+  },
+  {
+    "code": "2009",
+    "menu": "drinks",
+    "category": "WATER",
+    "item": "Evian Water (500ml)",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://m.media-amazon.com/images/I/61pOXvxcYkL.jpg"
+  },
+  {
+    "code": "2010",
+    "menu": "drinks",
+    "category": "WATER",
+    "item": "Evian Water (1 Litre)",
+    "description": "",
+    "price": "75",
+    "categoryImage": "https://m.media-amazon.com/images/I/61pOXvxcYkL.jpg"
+  },
+  {
+    "code": "2011",
+    "menu": "drinks",
+    "category": "SPARKLING DRINKS",
+    "item": "Sparkling Red Grape (750ml)",
+    "description": "",
+    "price": "85",
+    "categoryImage": "https://article.images.consumerreports.org/image/upload/w_652,f_auto,q_auto,ar_16:9,c_lfill/v1695914210/prod/content/dam/CRO-Images-2023/09September/Health/CR-Health-InlineHero-Non-Alcoholic-Wines-1023"
+  },
+  {
+    "code": "2012",
+    "menu": "drinks",
+    "category": "SPARKLING DRINKS",
+    "item": "Sparkling Peach (750ml)",
+    "description": "",
+    "price": "95",
+    "categoryImage": "https://article.images.consumerreports.org/image/upload/w_652,f_auto,q_auto,ar_16:9,c_lfill/v1695914210/prod/content/dam/CRO-Images-2023/09September/Health/CR-Health-InlineHero-Non-Alcoholic-Wines-1023"
+  },
+  {
+    "code": "2013",
+    "menu": "drinks",
+    "category": "SPARKLING DRINKS",
+    "item": "Sparkling Apple (750ml)",
+    "description": "",
+    "price": "85",
+    "categoryImage": "https://article.images.consumerreports.org/image/upload/w_652,f_auto,q_auto,ar_16:9,c_lfill/v1695914210/prod/content/dam/CRO-Images-2023/09September/Health/CR-Health-InlineHero-Non-Alcoholic-Wines-1023"
+  },
+  {
+    "code": "2014",
+    "menu": "drinks",
+    "category": "SPARKLING DRINKS",
+    "item": "Sparkling White Grape (750ml)",
+    "description": "",
+    "price": "85",
+    "categoryImage": "https://article.images.consumerreports.org/image/upload/w_652,f_auto,q_auto,ar_16:9,c_lfill/v1695914210/prod/content/dam/CRO-Images-2023/09September/Health/CR-Health-InlineHero-Non-Alcoholic-Wines-1023"
+  },
+  {
+    "code": "2015",
+    "menu": "drinks",
+    "category": "SPARKLING DRINKS",
+    "item": "Sparkling Gold (750ml)",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://article.images.consumerreports.org/image/upload/w_652,f_auto,q_auto,ar_16:9,c_lfill/v1695914210/prod/content/dam/CRO-Images-2023/09September/Health/CR-Health-InlineHero-Non-Alcoholic-Wines-1023"
+  },
+  {
+    "code": "2016",
+    "menu": "drinks",
+    "category": "SPARKLING DRINKS",
+    "item": "Sparkling Silver (750ml)",
+    "description": "",
+    "price": "150",
+    "categoryImage": "https://article.images.consumerreports.org/image/upload/w_652,f_auto,q_auto,ar_16:9,c_lfill/v1695914210/prod/content/dam/CRO-Images-2023/09September/Health/CR-Health-InlineHero-Non-Alcoholic-Wines-1023"
+  },
+  {
+    "code": "2017",
+    "menu": "drinks",
+    "category": "NUTS",
+    "item": "Half Nuts",
+    "description": "",
+    "price": "7",
+    "categoryImage": "https://visitmaldives.s3.amazonaws.com/75qRg7ox/c/qcvg1pfu-large.jpg"
+  },
+  {
+    "code": "2018",
+    "menu": "drinks",
+    "category": "NUTS",
+    "item": "Full Nuts",
+    "description": "",
+    "price": "14",
+    "categoryImage": "https://visitmaldives.s3.amazonaws.com/75qRg7ox/c/qcvg1pfu-large.jpg"
+  },
+  {
+    "code": "2019",
+    "menu": "drinks",
+    "category": "NUTS",
+    "item": "Dhufi",
+    "description": "",
+    "price": "6",
+    "categoryImage": "https://visitmaldives.s3.amazonaws.com/75qRg7ox/c/qcvg1pfu-large.jpg"
+  },
+  {
+    "code": "2020",
+    "menu": "drinks",
+    "category": "NUTS",
+    "item": "Kaashi Foah",
+    "description": "",
+    "price": "7",
+    "categoryImage": "https://visitmaldives.s3.amazonaws.com/75qRg7ox/c/qcvg1pfu-large.jpg"
+  },
+  {
+    "code": "2021",
+    "menu": "drinks",
+    "category": "NUTS",
+    "item": "Molhu Bilai",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://visitmaldives.s3.amazonaws.com/75qRg7ox/c/qcvg1pfu-large.jpg"
+  },
+  {
+    "code": "2022",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Coca Cola Bottle (500ml)",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2023",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Coca Cola Can (330ml)",
+    "description": "",
+    "price": "22",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2024",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Coca Cola Can (185ml)",
+    "description": "",
+    "price": "17",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2025",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Diet Cola Bottle (500ml)",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2026",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Diet Cola Can (330ml)",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2027",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Diet Cola Can (185ml)",
+    "description": "",
+    "price": "17",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2028",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Fanta Orange Bottle (500ml)",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2029",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Fanta Orange Can (330ml)",
+    "description": "",
+    "price": "22",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2030",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Fanta Orange Can (185ml)",
+    "description": "",
+    "price": "17",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2031",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Sprite Bottle (500ml)",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2032",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Sprite Can (330ml)",
+    "description": "",
+    "price": "22",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2033",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Sprite Can (185ml)",
+    "description": "",
+    "price": "17",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2034",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Sprite Zero Can (330ml)",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2035",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Sprite Zero Can (185ml)",
+    "description": "",
+    "price": "17",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2036",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Fanta Strawberry Bottle (500ml)",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2037",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Fanta Strawberry Can (330ml)",
+    "description": "",
+    "price": "22",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2038",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Fanta Strawberry Can (185ml)",
+    "description": "",
+    "price": "17",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2039",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Bitter Lemon Bottle (500ml)",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2040",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Bitter Lemon Can (330ml)",
+    "description": "",
+    "price": "22",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2041",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Bitter Lemon Can (185ml)",
+    "description": "",
+    "price": "17",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2042",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Ice Cream Soda Can (330ml)",
+    "description": "",
+    "price": "22",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2043",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Fanta Grapes Can (330ml)",
+    "description": "",
+    "price": "22",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2044",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Tonic Water Can (330ml)",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2045",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Soda Water Can (330ml)",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2046",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Palestine Cola Can",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2047",
+    "menu": "drinks",
+    "category": "SOFT DRINKS",
+    "item": "Palestine Cola Diet Can",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://static.wixstatic.com/media/8f1abd_80bf432a005041b59c2a7fa1960ce71e~mv2.jpeg"
+  },
+  {
+    "code": "2048",
+    "menu": "drinks",
+    "category": "FLOATS",
+    "item": "Coke Float (One Scoop Ice Cream)",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cola_Float.jpg/960px-Cola_Float.jpg"
+  },
+  {
+    "code": "2049",
+    "menu": "drinks",
+    "category": "FLOATS",
+    "item": "Fanta Float (One Scoop Ice Cream)",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cola_Float.jpg/960px-Cola_Float.jpg"
+  },
+  {
+    "code": "2050",
+    "menu": "drinks",
+    "category": "FLOATS",
+    "item": "Sprite Float (One Scoop Ice Cream)",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cola_Float.jpg/960px-Cola_Float.jpg"
+  },
+  {
+    "code": "2051",
+    "menu": "drinks",
+    "category": "FLOATS",
+    "item": "Fanta Cherry Float (One Scoop Ice Cream)",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cola_Float.jpg/960px-Cola_Float.jpg"
+  },
+  {
+    "code": "2052",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Black Tea",
+    "description": "",
+    "price": "3",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2053",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Black Tea Large",
+    "description": "",
+    "price": "6",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2054",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Milk Tea",
+    "description": "",
+    "price": "11",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2055",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Flavoured Tea",
+    "description": "",
+    "price": "11",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2056",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Bombay Tea",
+    "description": "",
+    "price": "11",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2057",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Cardamom Tea",
+    "description": "",
+    "price": "11",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2058",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Masala Tea",
+    "description": "",
+    "price": "11",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2059",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Fresh Lemon Tea",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2060",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Fresh Ginger Tea",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2061",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Ice Lemon Tea",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2062",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "S. Lemon Tea",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2063",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Hot Milk Cup",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2064",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Hot Milk Glass",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2065",
+    "menu": "drinks",
+    "category": "HOT TEA & ICE TEA",
+    "item": "Ice Milk Cup",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2066",
+    "menu": "drinks",
+    "category": "MILO & CHOCOLATE",
+    "item": "Ice Milk Glass",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://www.historyofceylontea.com/images/Articles/media-articles/hot-tea-vs-iced-tea-which-one-is-better-for-health-1.jpg"
+  },
+  {
+    "code": "2067",
+    "menu": "drinks",
+    "category": "MILO & CHOCOLATE",
+    "item": "Hot Chocolate",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://www.recipestonourish.com/wp-content/uploads/2022/10/Nourishing-Honey-Sweetened-Hot-Chocolate-Recipes-to-Nourish-1200x1200-1-720x720.jpg"
+  },
+  {
+    "code": "2068",
+    "menu": "drinks",
+    "category": "MILO & CHOCOLATE",
+    "item": "Hot Milo",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://www.recipestonourish.com/wp-content/uploads/2022/10/Nourishing-Honey-Sweetened-Hot-Chocolate-Recipes-to-Nourish-1200x1200-1-720x720.jpg"
+  },
+  {
+    "code": "2069",
+    "menu": "drinks",
+    "category": "MILO & CHOCOLATE",
+    "item": "Ice Chocolate",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.recipestonourish.com/wp-content/uploads/2022/10/Nourishing-Honey-Sweetened-Hot-Chocolate-Recipes-to-Nourish-1200x1200-1-720x720.jpg"
+  },
+  {
+    "code": "2070",
+    "menu": "drinks",
+    "category": "MILO & CHOCOLATE",
+    "item": "Ice Milo",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.recipestonourish.com/wp-content/uploads/2022/10/Nourishing-Honey-Sweetened-Hot-Chocolate-Recipes-to-Nourish-1200x1200-1-720x720.jpg"
+  },
+  {
+    "code": "2071",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Ye Ye Coffee",
+    "description": "",
+    "price": "8",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2072",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Nescafe Black",
+    "description": "",
+    "price": "7",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2073",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Nescafe Milk",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2074",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Lavazza Espresso",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2075",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Lavazza Black",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2076",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Lavazza Milk",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2077",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Lavazza Cappuccino",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2078",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Lavazza Latte",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2079",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "S. Cafe Espresso",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2080",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "S. Cafe Black",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2081",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "S. Cafe Milk",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2082",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Cafe De Italian Espresso",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2083",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Cafe De Italian Black",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2084",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Cafe De Italian Milk",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2085",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Carraro Espresso",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2086",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Carraro Black Coffee",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2087",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Carraro Milk Coffee",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2088",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Chocochino",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2089",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Lemon Coffee",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2090",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Ice Mocha Coffee",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2091",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Afagaathoa Large",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2092",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Afagaathoa Small",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2093",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Ice Coffee",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2094",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Ice Latte",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2095",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Vanilla Ice Coffee",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2096",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Ice Banana Latte",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2097",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Chocolate Coffee Frappe",
+    "description": "",
+    "price": "60",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2098",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Lavazza Capsule",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2099",
+    "menu": "drinks",
+    "category": "HOT COFFEE & ICE COFFEE",
+    "item": "Takeaway Coffee Cup",
+    "description": "",
+    "price": "3",
+    "categoryImage": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=100&h=100&fit=crop"
+  },
+  {
+    "code": "2100",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Orange Squeeze",
+    "description": "",
+    "price": "75",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2101",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Orange Juice",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2102",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Apple Juice",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2103",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Pineapple Juice",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2104",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Watermelon Juice",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2105",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Mix Fruit Juice",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2106",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Lemon Juice",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2107",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Mango Juice",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2108",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Coconut",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2109",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Guava",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2110",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Passion Fruit",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2111",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Bilimagu",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2112",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Sun Quick Juice",
+    "description": "",
+    "price": "17",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2113",
+    "menu": "drinks",
+    "category": "CAN JUICE & FRESH JUICE",
+    "item": "Packet Juice",
+    "description": "",
+    "price": "12",
+    "categoryImage": "https://www.icff.com.my/images/com_hikashop/upload/orange-juice_3489169.png"
+  },
+  {
+    "code": "2114",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Passion Fruit",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2115",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Blue Berry",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2116",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Le Blue",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2117",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Pom Pom Lemon",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2118",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Nut Cooler",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2119",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Masala Corner Breeze",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2120",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Mojito",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2121",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Red Bull",
+    "description": "",
+    "price": "80",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2122",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "XL Mojito",
+    "description": "",
+    "price": "80",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2123",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Bull Mujithoa",
+    "description": "",
+    "price": "80",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2124",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Bull Watermelon Cooler",
+    "description": "",
+    "price": "90",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2125",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Passion Bull",
+    "description": "",
+    "price": "90",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2126",
+    "menu": "drinks",
+    "category": "MOCKTAILS",
+    "item": "Virgin Bull Chilled",
+    "description": "",
+    "price": "90",
+    "categoryImage": "https://www.epsiloncommunityhub.com/wp-content/uploads/2025/06/easy-mocktail-recipes-for-summer-3.webp"
+  },
+  {
+    "code": "2127",
+    "menu": "drinks",
+    "category": "MILK SHAKE",
+    "item": "Chocolate",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.biggerbolderbaking.com/wp-content/uploads/2015/05/BBB71-Homemade-Ice-Cream-Milkshakes-Thumbnail-v.1.jpg"
+  },
+  {
+    "code": "2128",
+    "menu": "drinks",
+    "category": "MILK SHAKE",
+    "item": "Vanilla",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.biggerbolderbaking.com/wp-content/uploads/2015/05/BBB71-Homemade-Ice-Cream-Milkshakes-Thumbnail-v.1.jpg"
+  },
+  {
+    "code": "2129",
+    "menu": "drinks",
+    "category": "MILK SHAKE",
+    "item": "Strawberry",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.biggerbolderbaking.com/wp-content/uploads/2015/05/BBB71-Homemade-Ice-Cream-Milkshakes-Thumbnail-v.1.jpg"
+  },
+  {
+    "code": "2130",
+    "menu": "drinks",
+    "category": "MILK SHAKE",
+    "item": "Banana",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://www.biggerbolderbaking.com/wp-content/uploads/2015/05/BBB71-Homemade-Ice-Cream-Milkshakes-Thumbnail-v.1.jpg"
+  },
+  {
+    "code": "2131",
+    "menu": "drinks",
+    "category": "SMOOTHIES",
+    "item": "Sweet Lassi (Yoghurt)",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWzC9GSJdzndn8GBMux4l7v1bPWv8uV5cDQ&s"
+  },
+  {
+    "code": "2132",
+    "menu": "drinks",
+    "category": "SMOOTHIES",
+    "item": "Salt Lassi (Yoghurt)",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWzC9GSJdzndn8GBMux4l7v1bPWv8uV5cDQ&s"
+  },
+  {
+    "code": "2133",
+    "menu": "drinks",
+    "category": "SMOOTHIES",
+    "item": "Mango",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWzC9GSJdzndn8GBMux4l7v1bPWv8uV5cDQ&s"
+  },
+  {
+    "code": "2134",
+    "menu": "drinks",
+    "category": "SMOOTHIES",
+    "item": "Strawberry",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWzC9GSJdzndn8GBMux4l7v1bPWv8uV5cDQ&s"
+  },
+  {
+    "code": "2135",
+    "menu": "drinks",
+    "category": "SMOOTHIES",
+    "item": "Banana",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWzC9GSJdzndn8GBMux4l7v1bPWv8uV5cDQ&s"
+  },
+  {
+    "code": "2136",
+    "menu": "drinks",
+    "category": "SMOOTHIES",
+    "item": "Watermelon Cooler",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWzC9GSJdzndn8GBMux4l7v1bPWv8uV5cDQ&s"
+  },
+  {
+    "code": "2137",
+    "menu": "drinks",
+    "category": "SMOOTHIES",
+    "item": "Apple & Banana",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWzC9GSJdzndn8GBMux4l7v1bPWv8uV5cDQ&s"
+  },
+  {
+    "code": "2138",
+    "menu": "drinks",
+    "category": "SMOOTHIES",
+    "item": "Apple Attack",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWzC9GSJdzndn8GBMux4l7v1bPWv8uV5cDQ&s"
+  },
+  {
+    "code": "2139",
+    "menu": "drinks",
+    "category": "SMOOTHIES",
+    "item": "Pineapple & Banana",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWzC9GSJdzndn8GBMux4l7v1bPWv8uV5cDQ&s"
+  },
+  {
+    "code": "2140",
+    "menu": "drinks",
+    "category": "SMOOTHIES",
+    "item": "Orange & Mango",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWzC9GSJdzndn8GBMux4l7v1bPWv8uV5cDQ&s"
+  },
+  {
+    "code": "2141",
+    "menu": "drinks",
+    "category": "SMOOTHIES",
+    "item": "Melon & Banana",
+    "description": "",
+    "price": "65",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWzC9GSJdzndn8GBMux4l7v1bPWv8uV5cDQ&s"
+  },
+  {
+    "code": "2142",
+    "menu": "drinks",
+    "category": "ENERGY DRINKS",
+    "item": "XL Small (150ml)",
+    "description": "",
+    "price": "27",
+    "categoryImage": "https://newtreemaldives.com/wp-content/uploads/2024/04/0JvvmIUniUgkWS5rzOMValhzZXzDMiG1bgQSSlH5.jpg"
+  },
+  {
+    "code": "2143",
+    "menu": "drinks",
+    "category": "ENERGY DRINKS",
+    "item": "XL Large (250ml)",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://newtreemaldives.com/wp-content/uploads/2024/04/0JvvmIUniUgkWS5rzOMValhzZXzDMiG1bgQSSlH5.jpg"
+  },
+  {
+    "code": "2144",
+    "menu": "drinks",
+    "category": "ENERGY DRINKS",
+    "item": "Red Bull",
+    "description": "",
+    "price": "55",
+    "categoryImage": "https://newtreemaldives.com/wp-content/uploads/2024/04/0JvvmIUniUgkWS5rzOMValhzZXzDMiG1bgQSSlH5.jpg"
+  },
+  {
+    "code": "2145",
+    "menu": "drinks",
+    "category": "ENERGY DRINKS",
+    "item": "Tiger",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://newtreemaldives.com/wp-content/uploads/2024/04/0JvvmIUniUgkWS5rzOMValhzZXzDMiG1bgQSSlH5.jpg"
+  },
+  {
+    "code": "2146",
+    "menu": "drinks",
+    "category": "JUGO",
+    "item": "Vanilla",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_FLq0VD3nuNSdSIT_ZUzMhbnH_jNbZuW0w&s"
+  },
+  {
+    "code": "2147",
+    "menu": "drinks",
+    "category": "JUGO",
+    "item": "Blueberry",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_FLq0VD3nuNSdSIT_ZUzMhbnH_jNbZuW0w&s"
+  },
+  {
+    "code": "2148",
+    "menu": "drinks",
+    "category": "JUGO",
+    "item": "Strawberry",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_FLq0VD3nuNSdSIT_ZUzMhbnH_jNbZuW0w&s"
+  },
+  {
+    "code": "2149",
+    "menu": "drinks",
+    "category": "JUGO",
+    "item": "Coffee Vanilla",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_FLq0VD3nuNSdSIT_ZUzMhbnH_jNbZuW0w&s"
+  },
+  {
+    "code": "2150",
+    "menu": "drinks",
+    "category": "JUGO",
+    "item": "Chocolate",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_FLq0VD3nuNSdSIT_ZUzMhbnH_jNbZuW0w&s"
+  },
+  {
+    "code": "2151",
+    "menu": "drinks",
+    "category": "JUGO",
+    "item": "Fruit Jelly",
+    "description": "",
+    "price": "10",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_FLq0VD3nuNSdSIT_ZUzMhbnH_jNbZuW0w&s"
+  },
+  {
+    "code": "2152",
+    "menu": "drinks",
+    "category": "JUGO",
+    "item": "Boba Jelly",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_FLq0VD3nuNSdSIT_ZUzMhbnH_jNbZuW0w&s"
+  },
+  {
+    "code": "2153",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Illy Creamer Small",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2154",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Illy Creamer Medium",
+    "description": "",
+    "price": "50",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2155",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Illy Creamer Large",
+    "description": "",
+    "price": "70",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2156",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Ice Cream Single Scoop",
+    "description": "",
+    "price": "15",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2157",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Ice Cream Double Scoop",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2158",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Biscuit Cone",
+    "description": "",
+    "price": "20",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2159",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Sugar Cone",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2160",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Fruit & Nut Sugar Cone",
+    "description": "",
+    "price": "30",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2161",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Fruit & Nut Waffle Cone",
+    "description": "",
+    "price": "40",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2162",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Fruit & Nut Biscuit Cone",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2163",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Waffle Cone",
+    "description": "",
+    "price": "35",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2164",
+    "menu": "drinks",
+    "category": "ICE CREAM & CONE",
+    "item": "Fruit & Nut Ice Cream Single Scoop",
+    "description": "",
+    "price": "25",
+    "categoryImage": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_Caramel-Macchiato-Dipped-Ice-Cream-Cones_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1460481963007.webp"
+  },
+  {
+    "code": "2165",
+    "menu": "drinks",
+    "category": "MAGNUM",
+    "item": "Double Chocolate",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://assets.unileversolutions.com/v1/101232951.png"
+  },
+  {
+    "code": "2166",
+    "menu": "drinks",
+    "category": "MAGNUM",
+    "item": "Double Chocolate Caramel",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://assets.unileversolutions.com/v1/101232951.png"
+  },
+  {
+    "code": "2167",
+    "menu": "drinks",
+    "category": "MAGNUM",
+    "item": "White Chocolate",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://assets.unileversolutions.com/v1/101232951.png"
+  },
+  {
+    "code": "2168",
+    "menu": "drinks",
+    "category": "MAGNUM",
+    "item": "Almond",
+    "description": "",
+    "price": "45",
+    "categoryImage": "https://assets.unileversolutions.com/v1/101232951.png"
+  }
+]
