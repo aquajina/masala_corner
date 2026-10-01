@@ -1,20 +1,16 @@
 <!--
     MASALA CORNER DIGITAL MENU
     ------------------------------------------------------------
-    This file contains both versions of the restaurant menu:
+    Two layouts:
       1. Mobile/web menu
       2. TV/digital-display menu
 
-    The menu items themselves are loaded from a Google Apps Script
-    API. This means menu items can be changed in the data source
-    without editing this HTML file.
-
-    TV LAYOUT RULES (new):
-      - Always 2 columns
-      - Max 6 rows per column
-      - Categories with more than 6 items split across columns
+    TV LAYOUT RULES:
+      - ONE column per slide
+      - Max 7 rows per slide
+      - Categories with more than 7 items split across slides
         (header shows 1/2, 2/2, ...)
-      - Small categories (<= 6 items) share a slide, one per column
+      - Generous padding so content never touches screen edges
     ------------------------------------------------------------
 -->
 <!DOCTYPE html>
@@ -154,7 +150,9 @@
     body.mobile-mode .item-desc { font-size: 0.68rem; }
   }
 
-  /* ===================== TV ===================== */
+  /* ====================================================================
+     TV — ONE column per slide, up to 7 rows, big readable text
+     ==================================================================== */
   body.tv-mode {
     background: #05131c;
     color: #e8f4fb;
@@ -175,77 +173,100 @@
     filter: blur(1px);
   }
   body.tv-mode .menu-wrapper { display: none; }
+
+  /* Outer frame — the "invisible border" around the whole menu */
   body.tv-mode .tv-frame {
     display: flex; flex-direction: column;
-    height: 100vh; padding: 2.5vh 2.5vw;
+    height: 100vh;
+    padding: 5vh 6vw;
+    gap: 1.6vh;
   }
+
+  /* Top header */
   body.tv-mode .tv-header {
     display: flex; justify-content: space-between; align-items: center;
-    border-bottom: 3px solid #ff914d; padding-bottom: 1.2vh; margin-bottom: 1.5vh;
+    border-bottom: 3px solid #ff914d;
+    padding-bottom: 1.6vh;
+    flex-shrink: 0;
   }
   body.tv-mode .tv-header h1 {
-    font-size: 3.4vh; letter-spacing: 2px;
+    font-size: 4.6vh; letter-spacing: 2px;
     background: linear-gradient(90deg, #7bd5ff, #ff914d);
     -webkit-background-clip: text; background-clip: text; color: transparent;
     display: flex; align-items: center; gap: 1vw;
   }
   body.tv-mode .tv-header .contact {
-    font-size: 1.9vh; color: #cbe7f7; font-weight: 500; text-align: right;
+    font-size: 2.2vh; color: #cbe7f7; font-weight: 500;
+    text-align: right; line-height: 1.5;
     text-shadow: 0 2px 6px rgba(0,0,0,0.6);
   }
   body.tv-mode .tv-header .contact i { color: #ff914d; margin-right: 0.4vw; }
   body.tv-mode .tv-header .contact a { color: inherit; text-decoration: none; }
+
+  /* FOOD MENU / DRINKS badge */
   body.tv-mode .menu-badge {
     display: inline-block; background: #ff914d; color: #05131c;
-    font-weight: 800; padding: 0.6vh 1.4vw; border-radius: 60px;
-    font-size: 1.8vh; letter-spacing: 1px; margin-bottom: 1.2vh;
+    font-weight: 800; padding: 0.8vh 2.2vw; border-radius: 60px;
+    font-size: 2.2vh; letter-spacing: 1px;
     box-shadow: 0 4px 14px rgba(255,145,77,0.4);
+    flex-shrink: 0;
+    align-self: flex-start;
   }
-  body.tv-mode .slide-wrap { flex: 1; position: relative; }
+
+  /* Slide area */
+  body.tv-mode .slide-wrap { flex: 1; position: relative; min-height: 0; }
   body.tv-mode .slide {
     position: absolute; inset: 0;
-    display: grid; gap: 1.4vw;
+    display: grid;
+    grid-template-columns: 1fr;   /* ONE column */
     opacity: 0; transition: opacity 0.9s ease;
   }
   body.tv-mode .slide.active { opacity: 1; }
+
+  /* The single category panel */
   body.tv-mode .cat-col {
     background: rgba(10, 30, 45, 0.72);
     backdrop-filter: blur(6px);
     -webkit-backdrop-filter: blur(6px);
     border: 1px solid rgba(123,213,255,0.22);
-    border-radius: 1.2rem;
-    padding: 1.6vh 1.4vw;
-    display: flex; flex-direction: column; overflow: hidden;
+    border-radius: 1.6rem;
+    padding: 3vh 4vw;
+    display: flex; flex-direction: column;
+    overflow: hidden;
     box-shadow: 0 8px 30px rgba(0,0,0,0.45);
   }
+
+  /* Category title */
   body.tv-mode .cat-col h2 {
-    font-size: 2.4vh; color: #ffbe76;
-    text-transform: uppercase; letter-spacing: 1.5px;
+    font-size: 4vh; color: #ffbe76;
+    text-transform: uppercase; letter-spacing: 2px;
     border-bottom: 2px solid rgba(255,190,118,0.3);
-    padding-bottom: 0.8vh; margin-bottom: 1vh;
-    display: flex; align-items: center; gap: 0.6vw;
+    padding-bottom: 1.4vh; margin-bottom: 2vh;
+    display: flex; align-items: center; gap: 1vw;
     text-shadow: 0 2px 6px rgba(0,0,0,0.5);
+    flex-shrink: 0;
   }
-  /* Part indicator shown when a category is split, e.g. "1/2" */
   body.tv-mode .cat-col h2 .tv-part {
-    font-size: 1.4vh;
-    color: #a7c9dd;
-    font-weight: 600;
-    letter-spacing: 0;
-    margin-left: 0.6vw;
-    padding: 0.2vh 0.6vw;
-    border-radius: 20px;
+    font-size: 2.2vh; color: #a7c9dd; font-weight: 600;
+    letter-spacing: 0; margin-left: 1vw;
+    padding: 0.4vh 1vw; border-radius: 20px;
     background: rgba(123,213,255,0.15);
   }
-  body.tv-mode .cat-col table { width: 100%; border-collapse: collapse; }
+
+  /* Rows — big, comfortable to read from across the room */
+  body.tv-mode .cat-col table {
+    width: 100%; border-collapse: collapse;
+    flex: 1;
+  }
   body.tv-mode .cat-col td {
-    padding: 0.9vh 0; font-size: 1.9vh;
+    padding: 1.8vh 0;
+    font-size: 3.2vh;
     border-bottom: 1px solid rgba(123,213,255,0.1);
-    vertical-align: top;
+    vertical-align: middle;
   }
   body.tv-mode .cat-col td.code {
     color: #7bd5ff; font-family: monospace; font-weight: 700;
-    width: 3.5vw; font-size: 1.6vh;
+    width: 8vw; font-size: 2.6vh;
   }
   body.tv-mode .cat-col td.item-cell { color: #f0f8ff; }
   body.tv-mode .cat-col .tv-item {
@@ -253,24 +274,27 @@
     text-shadow: 0 2px 4px rgba(0,0,0,0.5);
   }
   body.tv-mode .cat-col .tv-desc {
-    font-size: 1.35vh; color: #a7c9dd; font-weight: 400;
-    display: block; margin-top: 0.2vh; line-height: 1.25;
+    font-size: 2.2vh; color: #a7c9dd; font-weight: 400;
+    display: block; margin-top: 0.4vh; line-height: 1.3;
     font-style: italic;
   }
   body.tv-mode .cat-col td.price {
     color: #ffbe76; font-weight: 800; text-align: right;
-    white-space: nowrap; padding-left: 0.8vw;
+    white-space: nowrap; padding-left: 2vw;
     text-shadow: 0 2px 4px rgba(0,0,0,0.5);
   }
+
+  /* Progress dots */
   body.tv-mode .progress {
-    display: flex; gap: 6px; justify-content: center; margin-top: 1.5vh;
+    display: flex; gap: 8px; justify-content: center;
+    flex-shrink: 0; padding-top: 0.5vh;
   }
   body.tv-mode .progress span {
-    width: 8px; height: 8px; border-radius: 50%;
+    width: 10px; height: 10px; border-radius: 50%;
     background: rgba(123,213,255,0.25); transition: all 0.3s;
   }
   body.tv-mode .progress span.on {
-    background: #ff914d; width: 28px; border-radius: 6px;
+    background: #ff914d; width: 32px; border-radius: 6px;
   }
   body.tv-mode .tv-frame .loading { color: #7bd5ff; font-size: 2.5vh; }
 
@@ -333,7 +357,7 @@
    ======================================================================== */
 const API_URL = 'https://raw.githubusercontent.com/aquajina/masala_corner/refs/heads/main/menu.json';
 const TV_SLIDE_SECONDS = 10;       /* seconds each slide is shown */
-const TV_ROWS_PER_COLUMN = 6;      /* max rows per TV column */
+const TV_ROWS_PER_SLIDE = 7;       /* max rows per TV slide (one column) */
 const TV_AUTODETECT_WIDTH = 1200;  /* screen width that triggers TV mode */
 
 /* ========================================================================
@@ -375,7 +399,7 @@ function groupByCategory(items) {
 }
 
 /* ========================================================================
-   MOBILE RENDER
+   MOBILE RENDER (unchanged)
    ======================================================================== */
 function buildMobileCards(categories) {
   if (!categories.length) return '<div class="loading">No items yet.</div>';
@@ -406,38 +430,35 @@ function buildMobileCards(categories) {
 }
 
 /* ========================================================================
-   TV RENDER
-   ========================================================================
-   Every slide has exactly 2 columns. Every column has up to 6 rows.
+   TV RENDER — ONE column per slide, up to TV_ROWS_PER_SLIDE rows
 
    Building process:
      1. For each category:
-          - If it has <= 6 items  -> one column
-          - If it has  > 6 items  -> split into chunks of 6; each chunk
-                                     becomes its own column with a "1/2",
+          - If it has <= 7 items  -> one slide
+          - If it has  > 7 items  -> split into chunks of 7; each chunk
+                                     becomes its own slide with a "1/2",
                                      "2/2" etc. badge in the header
-     2. Pack columns two at a time into slides
+     2. Each slide shows a single category in one column.
    ======================================================================== */
 
-/* Build a flat list of column units from a list of categories. */
-function buildTVColumns(categories) {
-  const columns = [];
+function packTVSlides(categories, menuLabel) {
+  const slides = [];
   categories.forEach(cat => {
     const total = cat.items.length;
-    if (total <= TV_ROWS_PER_COLUMN) {
-      /* Fits in one column */
-      columns.push({
+    if (total <= TV_ROWS_PER_SLIDE) {
+      slides.push({
+        label: menuLabel,
         categoryName: cat.name,
         items: cat.items,
         isSplit: false
       });
     } else {
-      /* Split into chunks of TV_ROWS_PER_COLUMN rows */
-      const totalParts = Math.ceil(total / TV_ROWS_PER_COLUMN);
+      const totalParts = Math.ceil(total / TV_ROWS_PER_SLIDE);
       for (let p = 0; p < totalParts; p++) {
-        columns.push({
+        slides.push({
+          label: menuLabel,
           categoryName: cat.name,
-          items: cat.items.slice(p * TV_ROWS_PER_COLUMN, (p + 1) * TV_ROWS_PER_COLUMN),
+          items: cat.items.slice(p * TV_ROWS_PER_SLIDE, (p + 1) * TV_ROWS_PER_SLIDE),
           isSplit: true,
           partNum: p + 1,
           totalParts: totalParts
@@ -445,45 +466,25 @@ function buildTVColumns(categories) {
       }
     }
   });
-  return columns;
-}
-
-/* Pack the flat columns list into slides of exactly 2 columns. */
-function packTVSlides(categories, menuLabel) {
-  const columns = buildTVColumns(categories);
-  const slides = [];
-  for (let i = 0; i < columns.length; i += 2) {
-    slides.push({
-      label: menuLabel,
-      columns: columns.slice(i, i + 2)
-    });
-  }
   return slides;
 }
 
-/* Render a single TV slide's HTML. */
 function tvSlideHTML(slide) {
-  const cols = slide.columns.map(col => {
-    const rows = col.items.map(i => {
-      const desc = i.description
-        ? `<span class="tv-desc">${escapeHTML(i.description)}</span>` : '';
-      return `<tr>
-        <td class="code">${escapeHTML(i.code)}</td>
-        <td class="item-cell"><span class="tv-item">${escapeHTML(i.item)}</span>${desc}</td>
-        <td class="price">${formatPrice(i.price)}</td>
-      </tr>`;
-    }).join('');
-
-    /* Header: category name + part badge if split */
-    const title = col.isSplit
-      ? `${escapeHTML(col.categoryName)} <span class="tv-part">${col.partNum}/${col.totalParts}</span>`
-      : escapeHTML(col.categoryName);
-
-    return `<div class="cat-col"><h2>${title}</h2><table><tbody>${rows}</tbody></table></div>`;
+  const rows = slide.items.map(i => {
+    const desc = i.description
+      ? `<span class="tv-desc">${escapeHTML(i.description)}</span>` : '';
+    return `<tr>
+      <td class="code">${escapeHTML(i.code)}</td>
+      <td class="item-cell"><span class="tv-item">${escapeHTML(i.item)}</span>${desc}</td>
+      <td class="price">${formatPrice(i.price)}</td>
+    </tr>`;
   }).join('');
 
-  /* Always use 2 equal columns, even if only 1 column is present */
-  return `<div class="slide" style="grid-template-columns:repeat(2,1fr)">${cols}</div>`;
+  const title = slide.isSplit
+    ? `${escapeHTML(slide.categoryName)} <span class="tv-part">${slide.partNum}/${slide.totalParts}</span>`
+    : escapeHTML(slide.categoryName);
+
+  return `<div class="slide"><div class="cat-col"><h2>${title}</h2><table><tbody>${rows}</tbody></table></div></div>`;
 }
 
 /* ========================================================================
