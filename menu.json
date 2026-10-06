@@ -13,7 +13,7 @@
     "menu": "food",
     "category": "SALAD",
     "item": "Onion Salad",
-    "description": "",
+    "description": "gfhffg",
     "price": "30",
     "categoryImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=100&h=100&fit=crop"
   },
@@ -22,7 +22,7 @@
     "menu": "food",
     "category": "SALAD",
     "item": "Cucumber Salad",
-    "description": "",
+    "description": "test test",
     "price": "35",
     "categoryImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=100&h=100&fit=crop"
   },
